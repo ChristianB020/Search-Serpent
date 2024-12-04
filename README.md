@@ -64,3 +64,15 @@ VITE_APP_KEY="your_search_api_key"
 
 Feel free to contribute or report issues! 😊
 
+
+**How the Project Should Look!!!**
+
+Search Bar page:
+![Project Screenshot](SearchBar.png)
+
+Details Page
+![Project Screenshot](DetailPage.png)
+
+
+
+
